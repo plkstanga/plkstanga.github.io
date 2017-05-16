@@ -5,6 +5,8 @@ html {
 
 body {
 	height:100%;
+	margin: 0;
+	padding: 0;
 	overflow:hidden;
 	background-image: url("../img/stanga_bg.jpg");
 	background-position: center;
